@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: PostFeedSection
     variant: variant-a
-    colors: colors-a
+    colors: colors-d
     title: Blog
     showRecent: true
     recentCount: 12
