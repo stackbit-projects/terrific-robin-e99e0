@@ -6,7 +6,7 @@ sections:
     colors: colors-a
     title: Blog
     showRecent: true
-    recentCount: 6
+    recentCount: 12
     subtitle: ''
     styles:
       self:
